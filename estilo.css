@@ -11,7 +11,7 @@ body{
 }
 h3{
 	width: 75px;
-	height: 290px;
+	height: 310px;
 	left: 16px;
 	top: 16px;
 	font-style: normal;
@@ -20,11 +20,11 @@ h3{
 	line-height: 21px;
 	color: #FFFFFF;
 	font-family: 'Poppins', sans-serif;
-	animation-duration: 300ms;
+	margin-left: 18px;
 }
 h2{
 	width: 177px;
-	height: 45px;
+	height: 22px;
 	left: 16px;
 	top: 333px;
 	font-style: normal;
@@ -32,11 +32,11 @@ h2{
 	font-size: 30px;
 	line-height: 45px;
 	font-family: 'Poppins', sans-serif;
-	margin: 
+	margin-left: 18px;
 }
 p{
 	width: 317px;
-	height: 52px;
+	height: 66px;
 	left: 16px;
 	top: 390px;
 	font-family: 'Raleway';
@@ -56,12 +56,14 @@ p{
 	background: linear-gradient(180deg, #941B80 0%, #2B2468 100%);
 	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 	border-radius: 20px;
+	margin-left: 18px;
 }
 .cuenta{
-	width: 86px;
+	position: absolute;
+	width: 100px;
 	height: 16px;
-	right: 221px;
-	top: 512px;
+	right: 175px;
+	top: 485px;
 	font-style: normal;
 	font-weight: 600;
 	font-size: 14px;
@@ -80,10 +82,10 @@ p{
 }
 .sesion{
 	position: absolute;
-	width: 86px;
+	width: 100px;
 	height: 16px;
-	left: 221px;
-	top: 512px;
+	right: -134px;
+	top: 485px;
 	font-style: normal;
 	font-weight: 600;
 	font-size: 14px;
